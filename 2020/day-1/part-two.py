@@ -1,6 +1,6 @@
 # |
 # | Author: Ruyi Li
-# | AOC 2020 Day 1 Part 1
+# | AOC 2020 Day 1 Part 2
 # |
 
 # | python part-two.py < day-1.in
