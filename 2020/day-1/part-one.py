@@ -3,7 +3,7 @@
 # | AOC 2020 Day 1 Part 1
 # |
 
-# | python part-one.py < day-1.in
+# | python part-one.py < input.txt
 
 import sys
 
